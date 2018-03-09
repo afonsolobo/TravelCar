@@ -16,20 +16,21 @@ Head over to [http://localhost:3000/table](http://localhost:3000/table)
 
 ## Mlab login
 Mongo data 
-costalobo@msn.com
-alfa1963
+your email
+your password
 
 Mongo hosting
 https://mlab.com/login/
 
 //login
-user:afonsolobo
-Passworld:alfa1963
+user:...............
+Passworld:............
 
 API key: 
 
-database name : tas
-dbuser:alfa
-dbpass:alfa1963
+database name :.......
+dbuser:............
+dbpass:.............
 
-mongodb://alfa:alfa1963@ds133127.mlab.com:33127/tas
+mongodb://..........
+.............fill 
